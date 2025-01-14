@@ -1,3 +1,3 @@
 # new_repo
 
-hello naveen
+today is tuesday
